@@ -1,0 +1,6 @@
+{
+  "name": "Student Attendance Management System - Software Engineering PBL",
+  "description": "A professional, role-based Student Attendance Management System designed and developed using Software Engineering principles, Requirements Engineering (SRS), SDLC, UML/DFD/ER diagrams, and automated software testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
